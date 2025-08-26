@@ -18,8 +18,9 @@ In the main function, we use these functions to implement the music playlist. We
 
 run in ubunt software.
 cd -> command for change directory where filr is located 
+
 to run code:
 
-1. cd <directory>
+1. cd <directory>.
 2. gcc <filename.c> -o test
 3. ./test
